@@ -1,0 +1,11 @@
+.custom-container {
+    position: fixed;
+    /* Use fixed to position relative to the viewport */
+    left: 0;
+    width: 1000px;
+    bottom: 265px;
+    /* Space from the bottom of the viewport */
+    background-color: lightgray;
+    /* Just for visualization */
+    padding: 225px;
+}
